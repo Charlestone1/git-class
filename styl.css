@@ -1,3 +1,7 @@
+.b{
+  color:peru;
+  text-align: center;
+}
 body {
   background-color: beige;
   padding: 10px 40px;
@@ -14,4 +18,9 @@ body {
 }
 .footer_box p {
   color: chocolate;
+}
+
+.a{
+  color: blueviolet;
+  background-color: gold;
 }
