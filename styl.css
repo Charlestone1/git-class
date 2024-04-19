@@ -1,5 +1,17 @@
 body {
   background-color: beige;
+  padding: 10px 40px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.footer_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: burlywood;
+}
+.footer_box p {
+  color: chocolate;
 }
